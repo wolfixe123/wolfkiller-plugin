@@ -1,0 +1,237 @@
+pages:
+  page1:
+    items:
+      # ===== LEATHER ARMOR =====
+      '1':
+        material: LEATHER_HELMET
+        buy: 9
+        sell: 3
+      '2':
+        material: LEATHER_CHESTPLATE
+        buy: 15
+        sell: 5
+      '3':
+        material: LEATHER_LEGGINGS
+        buy: 12
+        sell: 4
+      '4':
+        material: LEATHER_BOOTS
+        buy: 9
+        sell: 3
+      # ===== WOODEN TOOLS =====
+      '5':
+        material: WOODEN_SWORD
+        buy: 9
+        sell: 3
+      '6':
+        material: WOODEN_PICKAXE
+        buy: 9
+        sell: 3
+      '7':
+        material: WOODEN_AXE
+        buy: 9
+        sell: 3
+      '8':
+        material: WOODEN_SHOVEL
+        buy: 6
+        sell: 2
+      '9':
+        material: WOODEN_HOE
+        buy: 6
+        sell: 2
+      # ===== STONE TOOLS =====
+      '10':
+        material: STONE_SWORD
+        buy: 15
+        sell: 5
+      '11':
+        material: STONE_PICKAXE
+        buy: 15
+        sell: 5
+      '12':
+        material: STONE_AXE
+        buy: 15
+        sell: 5
+      '13':
+        material: STONE_SHOVEL
+        buy: 9
+        sell: 3
+      '14':
+        material: STONE_HOE
+        buy: 9
+        sell: 3
+  page2:
+    items:
+      # ===== CHAINMAIL ARMOR (mob-drop / trade only) =====
+      '15':
+        material: CHAINMAIL_HELMET
+        buy: 45
+        sell: 15
+      '16':
+        material: CHAINMAIL_CHESTPLATE
+        buy: 75
+        sell: 25
+      '17':
+        material: CHAINMAIL_LEGGINGS
+        buy: 60
+        sell: 20
+      '18':
+        material: CHAINMAIL_BOOTS
+        buy: 45
+        sell: 15
+      # ===== IRON TOOLS =====
+      '19':
+        material: IRON_SWORD
+        buy: 60
+        sell: 20
+      '20':
+        material: IRON_PICKAXE
+        buy: 60
+        sell: 20
+      '21':
+        material: IRON_AXE
+        buy: 60
+        sell: 20
+      '22':
+        material: IRON_SHOVEL
+        buy: 36
+        sell: 12
+      '23':
+        material: IRON_HOE
+        buy: 36
+        sell: 12
+      # ===== IRON ARMOR =====
+      '24':
+        material: IRON_HELMET
+        buy: 75
+        sell: 25
+      '25':
+        material: IRON_CHESTPLATE
+        buy: 135
+        sell: 45
+      '26':
+        material: IRON_LEGGINGS
+        buy: 105
+        sell: 35
+      '27':
+        material: IRON_BOOTS
+        buy: 75
+        sell: 25
+  page3:
+    items:
+      # ===== GOLDEN TOOLS =====
+      '28':
+        material: GOLDEN_SWORD
+        buy: 30
+        sell: 10
+      '29':
+        material: GOLDEN_PICKAXE
+        buy: 30
+        sell: 10
+      '30':
+        material: GOLDEN_AXE
+        buy: 30
+        sell: 10
+      '31':
+        material: GOLDEN_SHOVEL
+        buy: 18
+        sell: 6
+      '32':
+        material: GOLDEN_HOE
+        buy: 18
+        sell: 6
+      # ===== GOLDEN ARMOR =====
+      '33':
+        material: GOLDEN_HELMET
+        buy: 45
+        sell: 15
+      '34':
+        material: GOLDEN_CHESTPLATE
+        buy: 75
+        sell: 25
+      '35':
+        material: GOLDEN_LEGGINGS
+        buy: 60
+        sell: 20
+      '36':
+        material: GOLDEN_BOOTS
+        buy: 45
+        sell: 15
+      # ===== DIAMOND TOOLS =====
+      '37':
+        material: DIAMOND_SWORD
+        buy: 240
+        sell: 80
+      '38':
+        material: DIAMOND_PICKAXE
+        buy: 240
+        sell: 80
+      '39':
+        material: DIAMOND_AXE
+        buy: 240
+        sell: 80
+  page4:
+    items:
+      '40':
+        material: DIAMOND_SHOVEL
+        buy: 150
+        sell: 50
+      '41':
+        material: DIAMOND_HOE
+        buy: 150
+        sell: 50
+      # ===== DIAMOND ARMOR =====
+      '42':
+        material: DIAMOND_HELMET
+        buy: 360
+        sell: 120
+      '43':
+        material: DIAMOND_CHESTPLATE
+        buy: 660
+        sell: 220
+      '44':
+        material: DIAMOND_LEGGINGS
+        buy: 540
+        sell: 180
+      '45':
+        material: DIAMOND_BOOTS
+        buy: 360
+        sell: 120
+      # ===== NETHERITE TOOLS =====
+      '46':
+        material: NETHERITE_SWORD
+        buy: 1500
+        sell: 500
+      '47':
+        material: NETHERITE_PICKAXE
+        buy: 1500
+        sell: 500
+      '48':
+        material: NETHERITE_AXE
+        buy: 1500
+        sell: 500
+      '49':
+        material: NETHERITE_SHOVEL
+        buy: 1050
+        sell: 350
+      '50':
+        material: NETHERITE_HOE
+        buy: 1050
+        sell: 350
+      # ===== NETHERITE ARMOR (upgrade tier - highest value) =====
+      '51':
+        material: NETHERITE_HELMET
+        buy: 2400
+        sell: 800
+      '52':
+        material: NETHERITE_CHESTPLATE
+        buy: 4200
+        sell: 1400
+      '53':
+        material: NETHERITE_LEGGINGS
+        buy: 3300
+        sell: 1100
+      '54':
+        material: NETHERITE_BOOTS
+        buy: 2400
+        sell: 800
