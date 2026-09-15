@@ -1,0 +1,199 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: COAL
+        buy: 6
+        sell: 2
+      '2':
+        material: COAL_BLOCK
+        buy: 54
+        sell: 18
+      '3':
+        material: COAL_ORE
+        buy: 4.5
+        sell: 1.5
+      '4':
+        material: DEEPSLATE_COAL_ORE
+        buy: 4.5
+        sell: 1.5
+      '5':
+        material: CHARCOAL
+        buy: 6
+        sell: 2
+      '6':
+        material: COPPER_INGOT
+        buy: 9
+        sell: 3
+      '7':
+        material: COPPER_BLOCK
+        buy: 81
+        sell: 27
+      '8':
+        material: COPPER_ORE
+        buy: 6
+        sell: 2
+      '9':
+        material: DEEPSLATE_COPPER_ORE
+        buy: 6
+        sell: 2
+      '10':
+        material: RAW_COPPER
+        buy: 6
+        sell: 2
+      '11':
+        material: RAW_COPPER_BLOCK
+        buy: 54
+        sell: 18
+      '12':
+        material: IRON_INGOT
+        buy: 60
+        sell: 20
+      '13':
+        material: IRON_BLOCK
+        buy: 540
+        sell: 180
+      '14':
+        material: IRON_ORE
+        buy: 45
+        sell: 15
+      '15':
+        material: DEEPSLATE_IRON_ORE
+        buy: 45
+        sell: 15
+      '16':
+        material: RAW_IRON
+        buy: 36
+        sell: 12
+      '17':
+        material: RAW_IRON_BLOCK
+        buy: 324
+        sell: 108
+      '18':
+        material: GOLD_INGOT
+        buy: 75
+        sell: 25
+      '19':
+        material: GOLD_BLOCK
+        buy: 675
+        sell: 225
+      '20':
+        material: GOLD_ORE
+        buy: 60
+        sell: 20
+      '21':
+        material: DEEPSLATE_GOLD_ORE
+        buy: 60
+        sell: 20
+      '22':
+        material: NETHER_GOLD_ORE
+        buy: 45
+        sell: 15
+      '23':
+        material: RAW_GOLD
+        buy: 54
+        sell: 18
+      '24':
+        material: RAW_GOLD_BLOCK
+        buy: 486
+        sell: 162
+      '25':
+        material: REDSTONE
+        buy: 9
+        sell: 3
+      '26':
+        material: REDSTONE_BLOCK
+        buy: 81
+        sell: 27
+      '27':
+        material: REDSTONE_ORE
+        buy: 7.5
+        sell: 2.5
+      '28':
+        material: DEEPSLATE_REDSTONE_ORE
+        buy: 7.5
+        sell: 2.5
+      '29':
+        material: LAPIS_LAZULI
+        buy: 9
+        sell: 3
+      '30':
+        material: LAPIS_BLOCK
+        buy: 81
+        sell: 27
+      '31':
+        material: LAPIS_ORE
+        buy: 7.5
+        sell: 2.5
+      '32':
+        material: DEEPSLATE_LAPIS_ORE
+        buy: 7.5
+        sell: 2.5
+      '33':
+        material: QUARTZ
+        buy: 12
+        sell: 4
+      '34':
+        material: QUARTZ_BLOCK
+        buy: 108
+        sell: 36
+      '35':
+        material: NETHER_QUARTZ_ORE
+        buy: 9
+        sell: 3
+      '36':
+        material: AMETHYST_SHARD
+        buy: 12
+        sell: 4
+      '37':
+        material: AMETHYST_BLOCK
+        buy: 48
+        sell: 16
+      '38':
+        material: EMERALD
+        buy: 120
+        sell: 40
+      '39':
+        material: EMERALD_BLOCK
+        buy: 1080
+        sell: 360
+      '40':
+        material: EMERALD_ORE
+        buy: 105
+        sell: 35
+      '41':
+        material: DEEPSLATE_EMERALD_ORE
+        buy: 105
+        sell: 35
+      '42':
+        material: DIAMOND
+        buy: 180
+        sell: 60
+      '43':
+        material: DIAMOND_BLOCK
+        buy: 1620
+        sell: 540
+      '44':
+        material: DIAMOND_ORE
+        buy: 150
+        sell: 50
+      '45':
+        material: DEEPSLATE_DIAMOND_ORE
+        buy: 150
+        sell: 50
+      '46':
+        material: ANCIENT_DEBRIS
+        buy: 1500
+        sell: 500
+      '47':
+        material: NETHERITE_SCRAP
+        buy: 2400
+        sell: 800
+      '48':
+        material: NETHERITE_INGOT
+        buy: 7500
+        sell: 2500
+      '49':
+        material: NETHERITE_BLOCK
+        buy: 67500
+        sell: 22500
